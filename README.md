@@ -29,7 +29,6 @@ dependencies {
 }
 ```
 
-<br/>
 ```java
      View view = this.getLayoutInflater().inflate(R.layout.layout_tip_content_horizontal, null);
      new EasyDialog(MainActivity.this)
